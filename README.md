@@ -1,0 +1,1 @@
+# wifihotspotstore.github.io
